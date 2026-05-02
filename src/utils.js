@@ -23,7 +23,7 @@ const BASE_URL = "https://drakorid.co";
  * @description Base URL for Drakor ID API, this is alternative baseURL
  * @type {string}
  */
-const BASE_URL_2 = "https://drakorid.cam/";
+const BASE_URL_2 = "https://drakorid.co";
 
 /**
  * @description Base URL for Drakor ID API, this is first baseURL, using whatbox as source for video.
