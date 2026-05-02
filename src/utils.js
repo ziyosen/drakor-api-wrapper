@@ -17,13 +17,13 @@ import axios from "axios";
  * @description Base URL for Drakor ID API, this is first baseURL.
  * @type {string}
  */
-const BASE_URL = "https://wincamp.web.id";
+const BASE_URL = "https://drakorid.co";
 
 /**
  * @description Base URL for Drakor ID API, this is alternative baseURL
  * @type {string}
  */
-const BASE_URL_2 = "http://51.79.160.191";
+const BASE_URL_2 = "https://drakorid.cam/";
 
 /**
  * @description Base URL for Drakor ID API, this is first baseURL, using whatbox as source for video.
